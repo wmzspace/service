@@ -1,1 +1,1 @@
-console.log("wmz is a coding god")
+console.log("lzy is a coding god")
