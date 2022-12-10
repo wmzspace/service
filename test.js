@@ -1,1 +1,1 @@
-console.log("lzy is a coding god")
+console.log("We are coding gods!")
